@@ -1,2 +1,2 @@
-Aqui podría dar como terminada mi tarea, me resulto muy interesante esta manera de usar gitflow y como se podría manejar con diferentes
-personas, en este caso mis compañeros y lo curioso/profesional que se puede llegar a ser con este tipo de trabajos. 
+Aquí podría dar por concluido mi tarea, me resultó muy curiosa la manera de manejar todo este tipo de ramas, hofixes, entre las otras
+despertó mi curiosidad y a lo que se puede llegar con esto, fue de mi agrado y estoy emocionado por trabajar con gitflow.
