@@ -1,0 +1,2 @@
+Aquí podría dar por concluido mi tarea, me resultó muy curiosa la manera de manejar todo este tipo de ramas, hofixes, entre las otras
+despertó mi curiosidad y a lo que se puede llegar con esto, fue de mi agrado y estoy emocionado por trabajar con gitflow.
